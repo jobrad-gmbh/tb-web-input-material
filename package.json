@@ -1,5 +1,5 @@
 {
-  "name": "web-input-material",
+  "name": "@jobrad-gmbh/tb-web-input-material",
   "version": "0.0.367",
   "description": "Reusable material design based input field with support for (richt-)text, code, selections, numbers, dates and so on.",
   "keywords": [
